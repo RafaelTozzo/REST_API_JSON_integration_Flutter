@@ -1,4 +1,4 @@
-# ListView Builder App
+# REST API(JSON) integration with Flutter.
 The objective is to create a simple app using Dart/Flutter, for make a REST API integration with Flutter, using free JSON API:
 <br>
 https://jsonplaceholder.typicode.com/
