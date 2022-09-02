@@ -76,7 +76,7 @@ class _HomePageState extends State<HomePage> {
               onPressed: () {
                 controller.start();
               },
-              icon: Icon(Icons.refresh_outlined))
+              icon: const Icon(Icons.refresh_outlined))
         ],
       ),
       body: AnimatedBuilder(
